@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url("./assets/bg.jpg");
+
+  /*background: linear-gradient(to right , #08AAFF,#00FF6C);*/
+}
+.login-grid {
+  margin: 175px 10px 170px 625px;
+  border: 5px solid black;
+  border: 5px solid black;
+  padding: 50px;
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+input {
+  margin: 20px 10px 10px 0;
+  padding: 10px;
+}
+.loginlabel {
+  font-size: xx-large;
+  color: rgba(0,0,0);
+}
+
+button {
+  margin: 20px 10px 10px 0px;
+  padding: 10px;
+  background-color: rgb(238, 238, 238);
+}
+
+.login {
+  width: 200px;
+}
